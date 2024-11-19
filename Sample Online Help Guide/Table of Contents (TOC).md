@@ -11,14 +11,13 @@
    - Import and Export Contacts
 
 ## 3. Managing Contacts
-   - Add a New Contact
-     [How to add a new contact]
+   - [Add a new contact](Guide.md)
    - Edit Contact Details
    - Delete a Contact
    - Restore Deleted Contacts
 
 ## 4. Organizing Contacts
-   - Create and Manage Labels (Groups)
+   - [Create and Manage Labels] 
    - Merge Duplicate Contacts
    - Search and Sort Contacts
    - Starred Contacts: Mark Favorites
