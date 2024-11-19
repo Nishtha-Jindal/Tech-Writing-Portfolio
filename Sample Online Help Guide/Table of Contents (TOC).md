@@ -17,7 +17,7 @@
    - Restore Deleted Contacts
 
 ## 4. Organizing Contacts
-   - [Create and Manage Labels] 
+   - [Create and Manage Labels](GuideP2.md) 
    - Merge Duplicate Contacts
    - Search and Sort Contacts
    - Starred Contacts: Mark Favorites
