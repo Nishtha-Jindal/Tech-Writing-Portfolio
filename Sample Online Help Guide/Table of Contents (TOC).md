@@ -12,6 +12,7 @@
 
 ## 3. Managing Contacts
    - Add a New Contact
+     [How to add a new contact]
    - Edit Contact Details
    - Delete a Contact
    - Restore Deleted Contacts
