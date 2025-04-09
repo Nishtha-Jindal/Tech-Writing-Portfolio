@@ -11,10 +11,10 @@ I specialize in crafting **User Documentation and API Documentation**, including
 - 📖 **FAQs**
   
 ### I help 🏢 **B2B and B2C companies** 🏢 to bridge the gap between their products and users by delivering:  
-- **Effective and engaging content**  
+- **Effective and engaging** content 
 - Content aligned with **business objectives**  
 - Documentation that empowers **user success**
-- Comprehensive Developer Documentation  
+- Comprehensive **Developer Documentation**  
 
 This README serves as my **portfolio**, showcasing my expertise and passion for technical writing.  
 
